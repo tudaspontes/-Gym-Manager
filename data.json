@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQERfsKDhAxnlQ/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=K-4PDmlY-HsLo_UXl84D1-IC7orV8BDfusZPI-jDGRE",
+      "name": "Amanda Pinheiro",
+      "email": "ananias@gmail.com",
+      "birth": 750038400000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "56",
+      "height": "167",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://media-exp1.licdn.com/dms/image/C5603AQESyupEDVABEA/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=r_NF92GTuKUv1mqLFq-SCIt2NntKUa-h2je1daZVoVs",
+      "name": "Felipe Pontes",
+      "email": "felipe@gmail.com",
+      "birth": 633139200000,
+      "gender": "M",
+      "blood": "O+",
+      "weight": "68",
+      "height": "173",
+      "id": 2
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "name": "William",
+      "birth": 978220800000,
+      "gender": "M",
+      "services": "bodybuilding",
+      "created_at": 1588256337275
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1543975200-8e313fb04fc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "name": "Péter Szabó",
+      "birth": 1009843200000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1588375757019
+    }
+  ]
+}
